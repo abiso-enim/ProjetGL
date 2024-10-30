@@ -1,9 +1,10 @@
 package ma.ac.ensmr;
 
-public class C2 {
+public class C4 {
 
 	public static void main(String[] args) {
-		System.out.println("This is class C3.");
+		System.out.println("C'est C4.");
+
 	}
 
 }

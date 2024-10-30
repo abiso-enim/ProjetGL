@@ -3,8 +3,7 @@ package ma.ac.ensmr;
 public class C3 {
 
 	public static void main(String[] args) {
-		System.out.println("C'est la classe 3.");
-
+		System.out.println("This is class C3.");
 	}
 
 }
