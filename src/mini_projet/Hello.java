@@ -1,4 +1,4 @@
-package ma.ac.ensmr;
+package mini_projet;
 
 public class Hello {
 
